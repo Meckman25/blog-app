@@ -1,0 +1,18 @@
+current directory: C:/Users/Imoh/RailsApps/blog/vendor/bundle/ruby/3.3.0/gems/nio4r-2.7.4/ext/nio4r
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+
+current directory: C:/Users/Imoh/RailsApps/blog/vendor/bundle/ruby/3.3.0/gems/nio4r-2.7.4/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20250503-720-o7bwpf sitelibdir\=./.gem.20250503-720-o7bwpf clean
+make: *** No rule to make target 'clean'.  Stop.
+
+current directory: C:/Users/Imoh/RailsApps/blog/vendor/bundle/ruby/3.3.0/gems/nio4r-2.7.4/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20250503-720-o7bwpf sitelibdir\=./.gem.20250503-720-o7bwpf
+make: Nothing to be done for 'all'.
+
+current directory: C:/Users/Imoh/RailsApps/blog/vendor/bundle/ruby/3.3.0/gems/nio4r-2.7.4/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20250503-720-o7bwpf sitelibdir\=./.gem.20250503-720-o7bwpf install
+make: Nothing to be done for 'install'.
+
+current directory: C:/Users/Imoh/RailsApps/blog/vendor/bundle/ruby/3.3.0/gems/nio4r-2.7.4/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20250503-720-o7bwpf sitelibdir\=./.gem.20250503-720-o7bwpf clean
+make: *** No rule to make target 'clean'.  Stop.
