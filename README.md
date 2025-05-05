@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* For this project I used ruby version 3.3.8 and rails version 8.0.2
 
 * System dependencies
 
